@@ -1,12 +1,12 @@
 // ──────────────────────────────────────────────────
-// Link        https://www.hackerrank.com/contests/bca3a-hackathon07-17-8-26/challenges/encryption/problem?isFullScreen=true
+// Link        https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true
 // Problem     Encryption
 // Difficulty  Medium
-// Subdomain   N/A
+// Subdomain   Implementation
 // Platform    HackerRank
 // Language    cpp
 // Status      Accepted
-// Submitted   2026-08-17, 12:04 p.m.
+// Submitted   2026-08-17, 12:06 p.m.
 // ──────────────────────────────────────────────────
 
 #include <bits/stdc++.h>
