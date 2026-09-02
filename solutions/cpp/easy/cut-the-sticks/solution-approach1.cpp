@@ -1,12 +1,12 @@
 // ──────────────────────────────────────────────────
-// Link        https://www.hackerrank.com/contests/bca3a-hackathon08-31-8-26/challenges/cut-the-sticks/problem?isFullScreen=true
+// Link        https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true
 // Problem     Cut the sticks
 // Difficulty  Easy
-// Subdomain   Algorithms
+// Subdomain   Implementation
 // Platform    HackerRank
 // Language    cpp
 // Status      Accepted
-// Submitted   2026-08-31, 11:56 a.m.
+// Submitted   2026-09-02, 12:22 p.m.
 // ──────────────────────────────────────────────────
 
 #include <bits/stdc++.h>
@@ -23,7 +23,6 @@ vector<string> split(const string &);
  * The function is expected to return an INTEGER_ARRAY.
  * The function accepts INTEGER_ARRAY arr as parameter.
  */
-
 vector<int> cutTheSticks(vector<int> arr) {
 
     vector<int> ans;
@@ -44,6 +43,7 @@ vector<int> cutTheSticks(vector<int> arr) {
 
     return ans;
 }
+
 
 int main()
 {
